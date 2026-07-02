@@ -48,14 +48,33 @@ never leave your computer. Full promise: **[PRIVACY.md](PRIVACY.md)**.
 ## 🚀 Get started (Windows)
 
 1. **[Download `AFA-Windows-v1.0.zip` from Releases](../../releases/latest)**
-2. Unzip it anywhere.
-3. Double-click **`AFA.exe`** — no installation, no Python, nothing else needed.
+2. Unzip it anywhere (e.g. your Desktop or `D:\Apps`).
+3. Open the `AFA` folder and double-click **`AFA.exe`** — no installation,
+   no Python, nothing else needed.
+
+> **First launch:** Windows may show *"Windows protected your PC"*
+> (SmartScreen) because AFA is a new app from an independent developer.
+> Click **More info → Run anyway**. Cautious? Check the zip on
+> [VirusTotal](https://www.virustotal.com) first — see [PRIVACY.md](PRIVACY.md).
 
 **Tip for best results:** make ONE parent folder (e.g. `D:\University`),
 move your course folders **and** your loose files into it, then scan that
 folder. AFA routes loose files *into* your own course folders.
 
-*Mac and Linux versions are planned — Windows only for now.*
+## 🔄 Updating
+
+New versions appear on the [Releases](../../releases) page. To update:
+download the newest zip and unzip it — that's it, it's a fresh copy.
+Want to keep your Undo history and settings? Copy the old
+`AFA\_internal\data` folder into the same place inside the new one
+before deleting the old folder.
+
+## 🍎🐧 Mac & Linux
+
+The Windows app above won't run on Mac or Linux — native versions are
+planned. **Want to help make them happen?** If you use Mac or Linux and
+would like to test AFA, email **mrdark7177@gmail.com** — you'll get a test
+copy, and your feedback decides how fast those versions ship.
 
 ---
 
