@@ -1,0 +1,39 @@
+Academic File Archivist (AFA)
+Copyright (c) 2026 MrDark (mrdark7177@gmail.com)
+
+LICENSE — Free to use, all rights reserved
+===========================================
+
+This is proprietary freeware. You may use it for free; you may not
+sell it or pass off modified copies as your own.
+
+YOU MAY:
+  •  Download, install, and use AFA for free, for personal and
+     educational purposes, on as many of your own devices as you like.
+  •  Share the ORIGINAL, unmodified app with friends and classmates,
+     as long as it stays free and this license and the author's name
+     travel with it.
+
+YOU MAY NOT, without written permission from the author:
+  •  Sell, rent, or charge money for AFA or any part of it.
+  •  Modify, rebrand, repackage, or redistribute it as your own work.
+  •  Remove or alter the author's name, this license, or the
+     copyright notice.
+
+DONATIONS
+  AFA is and will remain free. If it saved you time and you would like
+  to support its development, donations are welcome but entirely
+  optional (see the "Support" section of the README). A donation buys
+  no additional rights or warranty — it is a voluntary thank-you.
+
+NO WARRANTY / LIMITATION OF LIABILITY
+  The software is provided "AS IS", without warranty of any kind,
+  express or implied, including but not limited to the warranties of
+  merchantability or fitness for a particular purpose. In no event
+  shall the author be liable for any claim, damages, loss of data, or
+  other liability arising from, out of, or in connection with the
+  software or its use. You are responsible for reviewing and approving
+  every change the app proposes, and for keeping independent backups of
+  important files. See DISCLAIMER.txt for full terms of use.
+
+For permissions beyond this license, contact: mrdark7177@gmail.com

@@ -1,0 +1,37 @@
+Academic File Archivist (AFA)
+Copyright (c) 2026 MrDark (mrdark7177@gmail.com)
+Free to use, all rights reserved. Do not sell or repackage. See LICENSE.txt.
+
+DISCLAIMER & TERMS OF USE
+
+AFA organises files using local AI. AI can make mistakes: a file may
+occasionally be classified or placed somewhere you do not expect.
+
+AFA is designed so the user always stays in control:
+
+  1. Nothing is moved until the user reviews the proposed plan and
+     explicitly clicks "Confirm & Move".
+  2. Every executed session can be reversed with Undo, which restores
+     all files to their original locations.
+  3. Detected duplicates are never deleted directly — they are moved to
+     a recoverable trash folder inside the app's own data directory.
+  4. AFA never scans or modifies system folders, program installations,
+     game libraries, or code repositories (built-in protection list).
+
+By installing, copying, or otherwise using AFA, you express full
+acceptance of the following terms:
+
+  - You are responsible for reviewing and approving every change the
+    app proposes before executing it.
+  - The software is provided "AS IS", without warranty of any kind,
+    express or implied, including but not limited to the warranties of
+    merchantability or fitness for a particular purpose.
+  - LIMITATION OF LIABILITY: In no event shall the author or copyright
+    holders be liable for any claim, damages, loss of data, or other
+    liability, whether in an action of contract, tort, or otherwise,
+    arising from, out of, or in connection with the software or the use
+    or other dealings in the software.
+  - You should keep independent backups of important files, as with
+    any software that manages your file system.
+
+If you do not agree with these terms, do not use the software.
